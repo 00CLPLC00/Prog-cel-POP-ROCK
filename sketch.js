@@ -26,7 +26,7 @@ let currentProgression = null;
 
 function setup() {
   createCanvas(475, 150);
-  background(93, 109, 126 );
+  background(44, 62, 80 );
   
   // Créer un bouton pour sélectionner une progression harmonique
   let button = createButton("C'est ici pour s'entrainer sur des progression harmonique célèbre POP/ROCK");
@@ -51,5 +51,5 @@ function selectRandomProgression() {
   currentProgression = progressions[randomIndex];
   
   // Redessiner l'arrière-plan
-  background(93, 109, 126 );
+  background(44, 62, 80 );
 }
