@@ -37,7 +37,7 @@ function setup() {
   createCanvas(500, 500);
   
   // Créer un bouton pour sélectionner une progression harmonique
-  let button = createButton("C'est ici pour s'entrainer sur des progression harmonique célèbre POP/ROCK");
+  let button = createButton("C'est ici pour s'entrainer sur des progressions harmoniques célèbres POP/ROCK");
   button.mousePressed(selectRandomProgression);
 }
 
