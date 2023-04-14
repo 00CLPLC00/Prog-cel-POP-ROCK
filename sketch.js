@@ -30,7 +30,7 @@ let currentProgression = null;
 function preload() {
   img = loadImage("https://i.imgur.com/2wzqqNb.png");
   img2 = loadImage("https://i.imgur.com/OEKIlJc.png");
-  imgindic = loadImage("https://i.imgur.com/aBqjZQn.png");
+  imgindic = loadImage("https://i.imgur.com/Oty6NHa.png");
 }
 
 function setup() {
